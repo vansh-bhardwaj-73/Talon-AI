@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment / virtualenv
+env/
+venv/
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Talon chat history (optional if you want to keep local only)
+Talon_chat_history.json

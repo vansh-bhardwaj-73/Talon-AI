@@ -1,0 +1,7 @@
+speechrecognition
+pyttsx3
+requests
+pillow
+pvporcupine
+pyaudio
+pystray
